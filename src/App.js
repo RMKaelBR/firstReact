@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload. PLEASE!!!!!!!
         </p>
         <h1>GITHUB IS JUST UUUGGGHHHH. LOVE HATE RELATIONSHIP</h1>
         <a
