@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload. PLEASE!!!!!!!
         </p>
-        <h1>GITHUB IS JUST UUUGGGHHHH. LOVE HATE RELATIONSHIP</h1>
+        <h1>GITHUB IS JUST UUUGGGHHHH. Minimum like MAXIMUM HATE RELATIONSHIP</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
