@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. PLEASE!!!!!!!
+          Edit <code>src/App.js</code> 
         </p>
-        <h1>GITHUB IS JUST UUUGGGHHHH. Minimum like MAXIMUM HATE RELATIONSHIP</h1>
+        <h1>No idea how this works.</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
